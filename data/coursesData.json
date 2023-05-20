@@ -2,31 +2,37 @@
   {
     "id": 1,
     "name": "HTML",
-    "img": "./images/AnantP@html.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AnantP%40html.png/600px-AnantP%40html.png?20211203125137",
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae dolore architecto ad quod quam possimus ex quidem quia? Dignissimos odit voluptas et culpa commodi exercitationem totam doloribus natus quo molestias!"
   },
   {
     "id": 2,
     "name": "CSS",
-    "img": "./images/AnantP@css.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/AnantP%40css.png/600px-AnantP%40css.png?20211203125137",
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae dolore architecto ad quod quam possimus ex quidem quia? Dignissimos odit voluptas et culpa commodi exercitationem totam doloribus natus quo molestias!"
   },
   {
     "id": 3,
     "name": "Bootstrap",
-    "img": "./images/Bootstrap_logo.svg.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024",
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae dolore architecto ad quod quam possimus ex quidem quia? Dignissimos odit voluptas et culpa commodi exercitationem totam doloribus natus quo molestias!"
   },
   {
     "id": 4,
     "name": "Tailwind",
-    "img": "./images/Tailwind-img.png"
+    "img": "https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png",
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae dolore architecto ad quod quam possimus ex quidem quia? Dignissimos odit voluptas et culpa commodi exercitationem totam doloribus natus quo molestias!"
   },
   {
     "id": 5,
     "name": "Javascript",
-    "img": "./images/js-circle-black-design-logo-30.png"
+    "img": "https://www.freepnglogos.com/uploads/javascript/js-circle-black-design-logo-30.png",
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae dolore architecto ad quod quam possimus ex quidem quia? Dignissimos odit voluptas et culpa commodi exercitationem totam doloribus natus quo molestias!"
   },
   {
     "id": 6,
     "name": "React",
-    "img": "./images/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg"
+    "img": "https://ih1.redbubble.net/image.1583754649.5587/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg",
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae dolore architecto ad quod quam possimus ex quidem quia? Dignissimos odit voluptas et culpa commodi exercitationem totam doloribus natus quo molestias!"
   }
 ]
